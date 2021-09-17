@@ -1,0 +1,2 @@
+# MTMS_traffic
+ The main goal is to digitize and create an interactive system that allows the transportation system to be more efficient. The system is expected to solve a lot of current problems that are visible in the transportation system. Like any other system, this system is also expected to have some limitations. One of these limitations is the inaccessibility at some places like the rural areas with no or slow  unsatisfactory internet connection in Ethiopia. 
